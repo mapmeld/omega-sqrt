@@ -3,13 +3,13 @@
 -----BEGIN PGP SIGNATURE-----
 Version: GnuPG v2
 
-iQEcBAABAgAGBQJU4Q8zAAoJEDWbjndSKzRJ4koH+QFMyQ59DH/Olu1UfF9HuVkl
-8auTNJagL7n7pi1yH02h06QGqEURi4+PfsJs54ulnfNoagYxfvwJJAN1zUV6eIE5
-mNH5ZRTExL3uH7c1EmhVGza6I3kEyBN486KsRKfOEg9DpHlsACmzMkMSWYrvanBl
-awEng/wmtbaPJrSyYtOAS4gbZ0J/2oDuoNRNc4DifZQCpvhfNt/tbYoNmWYCvFhT
-59R8DZRy3d/zHSb07W/0NAjx+9EMppQtmy2wb7xy8igQVpDx0qAKkjBiRvAt0tge
-ZoLK0qWEuqvSGrGj5hzjniUMmFpcHWPuAAfJIkvdScqtZ4TaWLn3eGpigDoO3p8=
-=QGUq
+iQEcBAABCAAGBQJU/RWeAAoJEDWbjndSKzRJyrkIAI8gRz9wkujsJxH2tvyFgqkk
+ja/lBnSmVOnPs6ZkHL9872YsaQTSrbSJ0aGlYb7F+jR1ePdlxMbpUB1/xLGMYmwS
+YsX4534aveq3ZcyTbbHnOnNk5WVcVkXkqagAS35ZMzqj1bQLV/uSGiF6FoIMVDPw
+9mP2q8z/n7ZBF/7m1ihC0v2erxPHIzbEfB58TA98ZeuHaHEe7GXuuHgC0jH4sxOT
+19qEV8p8NPjC9i6U+uTb3rcILwTDKDp/QcAA5TjDM34LBXAuYb875ziCFxCLINHU
+fSI7JjgzGvP1Wn1+XSYMKQXnI4CQacNHCrDVWjky9XYnrIAJAP3Hubm7z5hEeYA=
+=lmJr
 -----END PGP SIGNATURE-----
 
 ```
@@ -25,7 +25,7 @@ size  exec  file            contents
             ./                                                                              
 29            .gitignore    b8ba31fdf9dd5f42b283737b32c40b57ab141a6b265bcbab0e86b14ac5ab076b
 90            index.js      8c1dfea24fad5fde128f5f1e9cdd220dc1672c1bba8dc398d9b62ebfdfda1974
-74            package.json  e52b233140258a90626c30371d876dc63e6d93345db6a5498852d663e7567eaf
+71            package.json  cc3925c0893871ea771c98407bc201e6170d0b0506eebd9bd445af6874fc813a
 475           README.md     c467fc4cd7262e842c3c877d0514039169f753efab678a33ca28306b6dd05604
 ```
 
