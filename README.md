@@ -1,5 +1,7 @@
 # omega-sqrt
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/mapmeld/omega-sqrt.svg)](https://greenkeeper.io/)
+
 Initial test package for Ωpm ("omega package manager"), returning square roots.
 
 ## Concept
